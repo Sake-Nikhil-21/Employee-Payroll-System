@@ -1,0 +1,18 @@
+EMPLOYEE PAYROLL SYSTEM
+=======================
+
+Sample Payroll Calculation
+
+Basic Salary        : ₹40,000
+HRA (20%)           : ₹8,000
+DA (10%)            : ₹4,000
+Bonus               : ₹5,000
+
+Gross Salary        : ₹57,000
+
+EPF (12%)           : ₹4,800
+Professional Tax    : ₹200
+
+Attendance Deduction: ₹1,538.46
+
+Net Salary          : ₹50,461.54
